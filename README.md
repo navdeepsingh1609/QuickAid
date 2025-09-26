@@ -49,3 +49,8 @@ This project is based on the following research work:
 - Receive live notifications and alert history.  
 - Share real-time GPS location with emergency responders.  
 
+<h3>:iphone: Mobile:</h3>
+
+<img src="screenshots/mobile/cpu1.png" height="500em"/>&nbsp;<img src="screenshots/mobile/cpu2.png" height="500em" /><img src="screenshots/mobile/cpu3.png" height="500em" />
+&nbsp;<img src="screenshots/mobile/mem1.png" height="500em" /><img src="screenshots/mobile/mem2.png" height="500em"/>&nbsp;<img src="screenshots/mobile/frag1.png" height="500em" />
+&nbsp;<img src="screenshots/mobile/frag2.png" height="500em" />&nbsp;<img src="screenshots/mobile/info.png" height="500em" />
